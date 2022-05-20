@@ -4598,6 +4598,9 @@
 
     <!-- Glovo -->
     <item component="ComponentInfo{com.glovo/glovoapp.splash.SplashActivity}" drawable="glovo" />
+    
+    <!-- Glovo Couriers -->
+    <item component="ComponentInfo{com.glovoapp.courier/glovoapp.splash.SplashActivity}" drawable="glovo_couriers"/>
 
     <!-- GnuCash -->
     <item component="ComponentInfo{org.gnucash.android/org.gnucash.android.ui.account.AccountsActivity}" drawable="gnucash" />
